@@ -43,7 +43,7 @@ const d_text = document.getElementById('d_text')
 const submitBtn = document.getElementById('submit')
 
 let currentQuiz = 0
-// let score = 0
+let score = 0
 
 loadQuiz()
 
